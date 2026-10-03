@@ -1,11 +1,14 @@
 ## Hi there 👋
-
+I'm a 14 year old programmer that likes working on operating systems a lot, especially Linux.
+My favorite programming languages are Python and C++.
+- 🔭 I’m currently working on my own Linux distro from scratch
+- 👯 I’m looking to collaborate on any software-related project. If u ask me I just might help you with your issues.
 <!--
 **EvansOgala/EvansOgala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
